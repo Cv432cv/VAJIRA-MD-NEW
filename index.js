@@ -10,8 +10,8 @@
 ░░░╚═╝░░░╚═╝░░╚═╝░╚════╝░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝  ░░░░░░  ╚═╝░░░░░╚═╝╚═════╝░
 
 
-* Project name - VAJIRA- MD 
-* Author - Vajira Rathnayaka
+* Project name - CVR- MD 
+* Author - CHAMOD VIDARSHANA
 * Team - Technical Cybers 
 * Version - V6
 
